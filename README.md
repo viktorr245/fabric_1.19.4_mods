@@ -2,7 +2,7 @@
 Hi :D! This is a list of 1.19.4 fabric mods that feature both performance mods and esthetic/pvp mods. I will also give a short description of what every mod does.
 ## Performance Mods
 * **[Fabic API](https://modrinth.com/mod/fabric-api/versions)** (**MUST**)
-    * It's an essential API for mod makers.
+    * Essential API for mod makers.
 
 * **[Sodium](https://modrinth.com/mod/sodium/versions)** (**Extremely** recommended)
     *  Designed to improve frame rates and reduce micro-stutter.
