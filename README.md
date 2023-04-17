@@ -1,7 +1,7 @@
 # Fabric 1.19.4 Mods
 Hi :D! This is a list of 1.19.4 fabric mods that feature both performance mods and esthetic/pvp mods. I will also give a short description of what every mod does.
 ## Performance Mods
-* **[Fabic API](https://modrinth.com/mod/fabric-api/versions)** (**MUST**)
+* **[Fabic API](https://modrinth.com/mod/fabric-api/versions)** (**NECESSARY**)
      
     * It's an essential API for mod makers.
 
