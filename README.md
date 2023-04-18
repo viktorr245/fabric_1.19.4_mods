@@ -22,9 +22,6 @@ Hi :D! This is a list of 1.19.4 fabric mods that feature both performance mods a
 * **[Immediately Fast](https://modrinth.com/mod/immediatelyfast/versions)** (?)
     * ?
 
-* **[Smooth Boot](https://modrinth.com/mod/smoothboot-fabric/versions)** (Optional)
-    * Makes the game start faster and smoother by parallelizing tasks.
-
 * **[Memory Leak Fix](https://modrinth.com/mod/memoryleakfix/versions)** (Optional)
     * Fixes a memory leak caused by the game not releasing resources properly.
 
