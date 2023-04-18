@@ -19,17 +19,20 @@ Hi :D! This is a list of 1.19.4 fabric mods that feature both performance mods a
 * **[Krypton](https://modrinth.com/mod/krypton/versions)** (Recommended)
     * Improves networking performance by implementing various optimizations.
 
-* **[Immediately Fast](https://modrinth.com/mod/immediatelyfast/versions)** (?)
-    * ?
+* **[Immediately Fast](https://modrinth.com/mod/immediatelyfast/versions)** (Recommended)
+    * Improves performance by reducing the time it takes to load chunks.
+
+* **[More Culling](https://modrinth.com/mod/moreculling/versions)** (Recommended)
+    * Changes how multiple types of culling are handled in order to improve performance.
+
+* **[Smooth Boot](https://modrinth.com/mod/smoothboot-fabric/versions)** (Optional)
+    * Makes the game start faster and smoother by parallelizing tasks.
 
 * **[Memory Leak Fix](https://modrinth.com/mod/memoryleakfix/versions)** (Optional)
     * Fixes a memory leak caused by the game not releasing resources properly.
 
 * **[Force Close World Loading Screen](https://modrinth.com/mod/forcecloseworldloadingscreen/versions)** (Optional)
     * Allows you to exit the world loading screen very fast.
-
-* **[More Culling](https://modrinth.com/mod/moreculling/versions)** (?)
-    * ?
 
 ## Useful Mods
 * **[Xaero's World Map](https://chocolateminecraft.com/worldmapdownload.php#popup1)** (Optional)
