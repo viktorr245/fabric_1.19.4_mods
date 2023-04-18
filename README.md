@@ -24,6 +24,9 @@ Hi :D! This is a list of 1.19.4 fabric mods that feature both performance mods a
 * **[Immediately Fast](https://modrinth.com/mod/immediatelyfast/versions)**
     * Improves performance by reducing the time it takes to load chunks.
 
+* **[Entity Culling](https://modrinth.com/mod/entityculling/versions)**
+    * ?
+
 * **[More Culling](https://modrinth.com/mod/moreculling/versions)**
     * Changes how multiple types of culling are handled in order to improve performance.
 
