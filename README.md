@@ -35,47 +35,47 @@ Hi :D! This is a list of 1.19.4 fabric mods that feature both performance mods a
     * Allows you to exit the world loading screen very fast.
 
 ## Useful Mods
-* **[Xaero's World Map](https://chocolateminecraft.com/worldmapdownload.php#popup1)** (Optional)
-    * ?
+* **[Mod Menu](https://modrinth.com/mod/modmenu/versions)**
+    * Adds a menu to the game that allows you to view and configure installed mods.
 
-* **[Xaero's Minimap](https://chocolateminecraft.com/minimapdownload.php#popup1)** (Optional)
-    * ?
+* **[Sodium Extra](https://modrinth.com/mod/sodium-extra/changelog)**
+    * Adds additional options and improvements to the Sodium mod, including anisotropic filtering and biome blend options.
 
-* **[ShulkerBoxTooltip](https://modrinth.com/mod/shulkerboxtooltip/versions)** (?)
-    * ?
+* **[Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options/versions)**
+    * Adds additional options and improvements to the Sodium mod, including custom sky colors and cloud height options.
 
-* **[AntiGhost](https://modrinth.com/mod/antighost/versions)** (?)
-    * ?
+* **[Zoomify](https://modrinth.com/mod/zoomify)** (Optional)
+    * Adds a highly customizable zoom feature to the game that can be used with or without a spyglass.
 
-* **[Mod Menu](https://modrinth.com/mod/modmenu/versions)** (?)
-    * ?
-
-* **[Inspecio](https://modrinth.com/mod/inspecio/versions)** (?)
-    * ?
-
-* **[Sodium Extra](https://modrinth.com/mod/sodium-extra/changelog)** (?)
-    * ?
-
-* **[Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next/versions)** (?)
-    * ?
-
-* **[AdvancementInfo](https://modrinth.com/mod/advancementinfo)** (?)
-    * ?
-
-* **[Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options/versions)** (?)
-    * ?
+* **[AntiGhost](https://modrinth.com/mod/antighost/versions)** 
+    * Fixes ghost blocks that can occur when mining blocks too quickly by sending block update packets to the server.
 
 * **[Dynamic FPS](https://modrinth.com/mod/dynamic-fps/versions)** (?)
-    * ?
+    * Reduces FPS when the game is not in focus to reduce CPU usage.
 
-* **[BetterF3](https://modrinth.com/mod/betterf3/versions)** (?)
-    * ?
+* **[Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next/versions)**
+    * Adds inventory sorting and management features to the game.
 
-* **[Zoomify](https://modrinth.com/mod/zoomify)** (?)
-    * ?
+* **[Xaero's World Map](https://chocolateminecraft.com/worldmapdownload.php#popup1)**
+    * Adds a full-screen world map to the game that shows your explored terrain and allows you to set waypoints.
 
-* **[MidnightControls](https://modrinth.com/mod/midnightcontrols)** (?)
-    * ?
+* **[Xaero's Minimap](https://chocolateminecraft.com/minimapdownload.php#popup1)**
+    * Adds a minimap to the game that shows your immediate surroundings and allows you to set waypoints.
+
+* **[ShulkerBoxTooltip](https://modrinth.com/mod/shulkerboxtooltip/versions)**
+    * Allows you to see the contents of Shulker Boxes without placing them down by hovering over them in your inventory.
+
+* **[AdvancementInfo](https://modrinth.com/mod/advancementinfo)**
+    * Adds more detailed information about advancements to their tooltips.
+
+* **[Inspecio](https://modrinth.com/mod/inspecio/versions)**
+    * Adds more detailed tooltips for items such as maps, fireworks, and potions.
+
+* **[BetterF3](https://modrinth.com/mod/betterf3/versions)** 
+    * Replaces Minecraft’s original debug HUD with a highly customizable, more human-readable HUD.
+
+* **[MidnightControls](https://modrinth.com/mod/midnightcontrols)**
+    * Adds better controls, reach-around features, and controller support to the game.
 
 ## Aesthetic/Fun Mods
 * **[Not Enough Animations](https://modrinth.com/mod/not-enough-animations/versions)**
@@ -95,4 +95,3 @@ Hi :D! This is a list of 1.19.4 fabric mods that feature both performance mods a
 
 * **[LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass/versions)**
     * ?
-
