@@ -1,37 +1,37 @@
 # Fabric 1.19.4 Mods
 Hi :D! This is a list of 1.19.4 fabric mods that feature both performance mods and esthetic/pvp mods. I will also give a short description of what every mod does.
 ## Performance Mods
-* **[Fabic API](https://modrinth.com/mod/fabric-api/versions)** (**MUST**)
+* **[Fabic API](https://modrinth.com/mod/fabric-api/versions)** (**Necessairy**)
     * Essential API for mod makers.
 
-* **[Sodium](https://modrinth.com/mod/sodium/versions)** (**Extremely** recommended)
+* **[Sodium](https://modrinth.com/mod/sodium/versions)**
     *  Designed to improve frame rates and reduce micro-stutter.
 
-* **[Lithium](https://modrinth.com/mod/lithium/versions)** (**Highly** recommended)
+* **[Lithium](https://modrinth.com/mod/lithium/versions)** 
     * Optimizes server and client performance by reducing unnecessary calculations.
 
-* **[Starlight](https://modrinth.com/mod/starlight/versions)** (**Highly** recommended)
+* **[Starlight](https://modrinth.com/mod/starlight/versions)**
     * Replaces the light engine with a much more optimized one.
 
-* **[FerriteCore](https://modrinth.com/mod/ferrite-core/versions)** (Recommended)
+* **[FerriteCore](https://modrinth.com/mod/ferrite-core/versions)** 
     * Reduces memory usage by deduplicating common data structures.
 
-* **[Krypton](https://modrinth.com/mod/krypton/versions)** (Recommended)
+* **[Krypton](https://modrinth.com/mod/krypton/versions)** 
     * Improves networking performance by implementing various optimizations.
 
-* **[Immediately Fast](https://modrinth.com/mod/immediatelyfast/versions)** (Recommended)
+* **[Immediately Fast](https://modrinth.com/mod/immediatelyfast/versions)**
     * Improves performance by reducing the time it takes to load chunks.
 
-* **[More Culling](https://modrinth.com/mod/moreculling/versions)** (Recommended)
+* **[More Culling](https://modrinth.com/mod/moreculling/versions)**
     * Changes how multiple types of culling are handled in order to improve performance.
 
-* **[Smooth Boot](https://modrinth.com/mod/smoothboot-fabric/versions)** (Optional)
+* **[Smooth Boot](https://modrinth.com/mod/smoothboot-fabric/versions)**
     * Makes the game start faster and smoother by parallelizing tasks.
 
-* **[Memory Leak Fix](https://modrinth.com/mod/memoryleakfix/versions)** (Optional)
+* **[Memory Leak Fix](https://modrinth.com/mod/memoryleakfix/versions)**
     * Fixes a memory leak caused by the game not releasing resources properly.
 
-* **[Force Close World Loading Screen](https://modrinth.com/mod/forcecloseworldloadingscreen/versions)** (Optional)
+* **[Force Close World Loading Screen](https://modrinth.com/mod/forcecloseworldloadingscreen/versions)**
     * Allows you to exit the world loading screen very fast.
 
 ## Useful Mods
