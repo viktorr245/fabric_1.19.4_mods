@@ -18,6 +18,8 @@ Hi :D! This is a list of 1.19.4 fabric mods that feature both performance mods a
 
 * **[Krypton](https://modrinth.com/mod/krypton/versions)** 
     * Improves networking performance by implementing various optimizations.
+* **[Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric/versions)**
+    * Designed to improve the performance of chunk generation, I/O, and loading.
 
 * **[Immediately Fast](https://modrinth.com/mod/immediatelyfast/versions)**
     * Improves performance by reducing the time it takes to load chunks.
