@@ -13,11 +13,15 @@ Hi :D! This is a list of 1.19.4 fabric mods that feature both performance mods a
 * **[Starlight](https://modrinth.com/mod/starlight/versions)**
     * Replaces the light engine with a much more optimized one.
 
+* **[Exordium](https://modrinth.com/mod/exordium/versions)**
+    * ?
+
 * **[FerriteCore](https://modrinth.com/mod/ferrite-core/versions)** 
     * Reduces memory usage by deduplicating common data structures.
 
 * **[Krypton](https://modrinth.com/mod/krypton/versions)** 
     * Improves networking performance by implementing various optimizations.
+
 * **[Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric/versions)**
     * Designed to improve the performance of chunk generation, I/O, and loading.
 
@@ -36,8 +40,10 @@ Hi :D! This is a list of 1.19.4 fabric mods that feature both performance mods a
 * **[Memory Leak Fix](https://modrinth.com/mod/memoryleakfix/versions)**
     * Fixes a memory leak caused by the game not releasing resources properly.
 
-* **[Force Close World Loading Screen](https://modrinth.com/mod/forcecloseworldloadingscreen/versions)**
-    * Allows you to exit the world loading screen very fast.
+* **[Fastload](https://modrinth.com/mod/fastload/versions)**
+    * ?
+* **[Very Many Players](https://modrinth.com/mod/vmp-fabric/versions)**
+    * ?
 
 ## Useful Mods
 * **[Mod Menu](https://modrinth.com/mod/modmenu/versions)**
@@ -57,6 +63,9 @@ Hi :D! This is a list of 1.19.4 fabric mods that feature both performance mods a
 
 * **[Dynamic FPS](https://modrinth.com/mod/dynamic-fps/versions)**
     * Reduces FPS when the game is not in focus to reduce CPU usage.
+
+* **[No Chat Reports](https://modrinth.com/mod/no-chat-reports/versions)**
+    * ?
 
 * **[Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next/versions)**
     * Adds inventory sorting and management features to the game.
