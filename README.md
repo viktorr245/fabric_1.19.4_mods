@@ -44,13 +44,13 @@ Hi :D! This is a list of 1.19.4 fabric mods that feature both performance mods a
 * **[Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options/versions)**
     * Adds additional options and improvements to the Sodium mod, including custom sky colors and cloud height options.
 
-* **[Zoomify](https://modrinth.com/mod/zoomify)** (Optional)
+* **[Zoomify](https://modrinth.com/mod/zoomify)**
     * Adds a highly customizable zoom feature to the game that can be used with or without a spyglass.
 
 * **[AntiGhost](https://modrinth.com/mod/antighost/versions)** 
     * Fixes ghost blocks that can occur when mining blocks too quickly by sending block update packets to the server.
 
-* **[Dynamic FPS](https://modrinth.com/mod/dynamic-fps/versions)** (?)
+* **[Dynamic FPS](https://modrinth.com/mod/dynamic-fps/versions)**
     * Reduces FPS when the game is not in focus to reduce CPU usage.
 
 * **[Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next/versions)**
