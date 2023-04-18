@@ -19,6 +19,9 @@ Hi :D! This is a list of 1.19.4 fabric mods that feature both performance mods a
 * **[Krypton](https://modrinth.com/mod/krypton/versions)** (Recommended)
     * Improves networking performance by implementing various optimizations.
 
+* **[Immediately Fast](https://modrinth.com/mod/immediatelyfast/versions)** (?)
+    * ?
+
 * **[Smooth Boot](https://modrinth.com/mod/smoothboot-fabric/versions)** (Optional)
     * Makes the game start faster and smoother by parallelizing tasks.
 
@@ -27,3 +30,69 @@ Hi :D! This is a list of 1.19.4 fabric mods that feature both performance mods a
 
 * **[Force Close World Loading Screen](https://modrinth.com/mod/forcecloseworldloadingscreen/versions)** (Optional)
     * Allows you to exit the world loading screen very fast.
+
+* **[More Culling](https://modrinth.com/mod/moreculling/versions)** (?)
+    * ?
+
+## Useful Mods
+* **[Xaero's World Map](https://chocolateminecraft.com/worldmapdownload.php#popup1)** (Optional)
+    * ?
+
+* **[Xaero's Minimap](https://chocolateminecraft.com/minimapdownload.php#popup1)** (Optional)
+    * ?
+
+* **[ShulkerBoxTooltip](https://modrinth.com/mod/shulkerboxtooltip/versions)** (?)
+    * ?
+
+* **[AntiGhost](https://modrinth.com/mod/antighost/versions)** (?)
+    * ?
+
+* **[Mod Menu](https://modrinth.com/mod/modmenu/versions)** (?)
+    * ?
+
+* **[Inspecio](https://modrinth.com/mod/inspecio/versions)** (?)
+    * ?
+
+* **[Sodium Extra](https://modrinth.com/mod/sodium-extra/changelog)** (?)
+    * ?
+
+* **[Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next/versions)** (?)
+    * ?
+
+* **[AdvancementInfo](https://modrinth.com/mod/advancementinfo)** (?)
+    * ?
+
+* **[Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options/versions)** (?)
+    * ?
+
+* **[Dynamic FPS](https://modrinth.com/mod/dynamic-fps/versions)** (?)
+    * ?
+
+* **[BetterF3](https://modrinth.com/mod/betterf3/versions)** (?)
+    * ?
+
+* **[Zoomify](https://modrinth.com/mod/zoomify)** (?)
+    * ?
+
+* **[MidnightControls](https://modrinth.com/mod/midnightcontrols)** (?)
+    * ?
+
+## Aesthetic/Fun Mods
+* **[Not Enough Animations](https://modrinth.com/mod/not-enough-animations/versions)**
+    * ?
+
+* **[Physics Mod](https://modrinth.com/mod/physicsmod/versions)**
+    * ?
+
+* **[3D Skin Layers](https://modrinth.com/mod/3dskinlayers/versions)**
+    * ?
+
+* **[LampDynamicLights](https://modrinth.com/mod/lambdynamiclights/versions)**
+    * ?
+
+* **[Capes](https://modrinth.com/mod/capes/versions)**
+    * ?
+
+* **[LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass/versions)**
+    * ?
+
